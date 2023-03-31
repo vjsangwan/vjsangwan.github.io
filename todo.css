@@ -1,0 +1,32 @@
+
+input{
+    color:aquamarine;
+}
+.list{
+    color: #249e9ac7;
+}
+.todo{
+    width:50%;
+    background-color: rgb(216, 166, 212);
+    color:rgb(18, 143, 178);
+    border-style: double;
+    padding-left:300px;
+    margin-top: 100px;
+    margin-right:300px;
+    margin-left:300px;
+   
+}
+
+#Add{
+    color:rgb(25, 108, 147);
+    background-color: rgb(102, 173, 192);
+    border-style: none;
+}
+#text{
+    color:rgb(25, 108, 147);
+    background-color: rgb(244, 248, 249);
+    border-style:initial;  
+}
+body{
+    background-image: url(https://st2.depositphotos.com/7398994/10743/v/950/depositphotos_107432848-stock-illustration-vector-doodle-circle-water-texture.jpg);
+}
